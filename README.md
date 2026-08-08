@@ -3,3 +3,4 @@ A decentralized governance system built on the Base network that enables token-b
 chore: initialize governance project
 feat: add DAO smart contract
 feat: implement proposal creation
+feat: add voting mechanism
