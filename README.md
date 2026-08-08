@@ -5,3 +5,4 @@ feat: add DAO smart contract
 feat: implement proposal creation
 feat: add voting mechanism
 feat: implement vote delegation
+feat: add proposal execution
