@@ -7,3 +7,4 @@ feat: add voting mechanism
 feat: implement vote delegation
 feat: add proposal execution
 fix: improve voting validation
+refactor: optimize governance logic
